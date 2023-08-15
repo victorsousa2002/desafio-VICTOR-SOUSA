@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "src",
+  "version": "1.0.0",
+  "main": "caixa-da-lanchonete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
